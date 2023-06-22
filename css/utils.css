@@ -1,0 +1,44 @@
+.f_d_row {
+   display: flex;
+   flex-direction: row;
+}
+
+.f_jc_space_around {
+   justify-content: space-around;
+}
+
+.f_jc_space_evenly {
+    justify-content: space-evenly;
+ }
+
+.f_ai_center {
+   align-items: center;
+}
+
+.h_25 {
+    height: 25px;
+ }
+
+.h_50 {
+   height: 50px;
+}
+
+.h_100 {
+    height: 100px;
+ }
+
+.bg_orange {
+   background-color: #ff6900;
+}
+
+.bg_black {
+   background-color: #1a1a1a;
+}
+
+.white {
+    color: white;
+}
+
+.shadow {
+    box-shadow: 0px 0px 5px 0px black;
+}
