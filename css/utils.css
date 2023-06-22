@@ -19,9 +19,15 @@
     justify-content: center;
  }
 
+ .f_jc_end {
+    justify-content: flex-end;
+ }
+
 .f_ai_center {
    align-items: center;
 }
+
+
 
 .h_25 {
     height: 25px;
@@ -101,6 +107,10 @@
 
 .m_top_25 {
     margin-top: 25px;
+}
+
+.m_top_100 {
+    margin-top: 100px;
 }
 
 .m_bot_25 {
