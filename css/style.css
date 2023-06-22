@@ -9,3 +9,15 @@ a {
     color: white;
     text-decoration: none;
 }
+
+.card {
+    
+}
+
+.card img {
+    width: 300px;
+}
+
+.card p {
+    font-size: 13px;
+}
