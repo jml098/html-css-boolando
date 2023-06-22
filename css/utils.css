@@ -3,6 +3,10 @@
    flex-direction: row;
 }
 
+.f_wrap {
+    flex-wrap: wrap;
+}
+
 .f_jc_space_around {
    justify-content: space-around;
 }
@@ -81,7 +85,28 @@
     width: 200px;
 }
 
+.w_70p {
+ width: 70%;
+}
 
-.f_gap_10 {
+
+.f_cgap_10 {
     gap: 10px;
+}
+
+.f_rgap_50 {
+    gap: 50px;
+}
+
+
+.m_top_25 {
+    margin-top: 25px;
+}
+
+.m_bot_25 {
+    margin-bottom: 25px;
+}
+
+.m_auto {
+    margin: auto;
 }

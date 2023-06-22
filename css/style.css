@@ -15,9 +15,13 @@ a {
 }
 
 .card img {
-    width: 300px;
+    width: 350px;
 }
 
 .card p {
     font-size: 13px;
+}
+
+.card a {
+    color: black;
 }
